@@ -1,2 +1,2 @@
 # JoshBuloushi.github.io
-Landing Page for humanlike
+Landing Page for joshyboy
